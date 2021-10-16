@@ -1,7 +1,7 @@
 # pdftools
 Simple CLI pdf tool using PyPDF2
 
-install PyPDF2 using pip install PyPDF2, and program is ready to go  
+install PyPDF2 using pip install PyPDF2  
 have copies of your pdf files in the same directory as the script  
 run using: python pdftools.py from command line
 
